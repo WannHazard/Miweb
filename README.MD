@@ -1,3 +1,9 @@
+![Estado](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
+![Version](https://img.shields.io/badge/VERSION-1.0-blue)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JS](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 # Portafolio Web de WannHazard
 
 ¡Bienvenido a mi portafolio web! Aquí encontrarás información sobre mis proyectos, habilidades y experiencia como desarrollador web.
